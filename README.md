@@ -23,6 +23,14 @@
 
 Often with 3d printing, whether it be for prototyping, fabricating functial parts or whatever else, there is a need for large sized components and/or an enclosure. This printer solves that while trying to circumvent the issue of cost aswell. It uses recycled components in the construction, but this does not guarantee it will be cheap for you.
 
+### Features
+1. **Huge size** - (~500x300x180)
+2. Filament in enclosure to keep it dry.
+3. Bed on ball joints to make it swingable.
+4. Ready for high acceleration & jerk because of machined parts.
+
+### Klipper
+**config will be uploaded here when I've built it**
 
 ### Assembly
 
