@@ -18,8 +18,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://github.com/made0fjell0/dignusdeo/blob/main/images/dignusdeo_2026-Sep-13_03-23-53PM-000_CustomizedView33502272015.webp?raw=true" width="290" height="200">
-<img src="https://github.com/made0fjell0/dignusdeo/blob/main/images/dignusdeo_2026-Sep-01_03-18-06PM-000_CustomizedView35179506125.webp?raw=true" width="400" height="200">
+<img src="https://github.com/made0fjell0/dignusdeo/blob/main/images/dignusdeo_2026-Sep-13_03-23-53PM-000_CustomizedView33502272015.webp?raw=true">
+<img src="https://github.com/made0fjell0/dignusdeo/blob/main/images/dignusdeo_2026-Sep-01_03-18-06PM-000_CustomizedView35179506125.webp?raw=true">
 
 Often with 3d printing, whether it be for prototyping, fabricating functial parts or whatever else, there is a need for large sized components and/or an enclosure. This printer solves that while trying to circumvent the issue of cost aswell. It uses recycled components in the construction, but this does not guarantee it will be cheap for you.
 
